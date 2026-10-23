@@ -1040,6 +1040,11 @@ html.has-dialog { overflow: hidden; }
   .fact:nth-child(n + 3) { margin-top: 28px; border-top: 1px solid var(--line-on-ink); }
 }
 
+@media (max-width: 1180px) {
+  .project--feature { grid-template-columns: 1fr; align-items: start; }
+  .project--feature .project__body > p:not(.project__meta) { max-width: 64ch; }
+}
+
 @media (max-width: 960px) {
   .section-head--split { grid-template-columns: 1fr; align-items: start; }
   .studio__lead, .studio__copy { grid-column: 1 / -1; }
@@ -1100,6 +1105,17 @@ html.has-dialog { overflow: hidden; }
   .compare__hint { bottom: 10px; }
   .site-footer__cols { grid-template-columns: 1fr; }
   .btn { white-space: normal; text-align: center; }
+}
+
+/* Short phone screens (e.g. 320x568): keep the whole hero introduction below the header. */
+@media (max-width: 640px) and (max-height: 700px) {
+  .hero__intro { bottom: 56px; }
+  .hero__intro .eyebrow { margin-bottom: 10px; }
+  .hero__title { font-size: clamp(2.3rem, 10.5vw, 3rem); }
+  .hero__lede { margin-top: 12px; font-size: 0.9375rem; line-height: 1.45; }
+  .hero__actions { margin-top: 18px; gap: 8px; }
+  .hero__actions .btn { min-height: 44px; }
+  .hero__cue { display: none; }
 }
 
 @media (prefers-reduced-motion: reduce) {
