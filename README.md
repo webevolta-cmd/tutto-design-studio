@@ -36,6 +36,10 @@ Optional: once a custom domain is attached, set `SITE_URL` (for example `https:/
 
 The site is one page, so no redirects are needed. `public/404.html` is served for unknown paths. Cache headers for hashed assets, fonts and media are in `netlify.toml`.
 
+## GitHub Pages (review link without branding)
+
+`.github/workflows/pages.yml` builds the site and publishes it to https://webevolta-cmd.github.io/tutto-design-studio/ on every push. It needs a one-time switch in the repository: **Settings → Pages → Build and deployment → Source: GitHub Actions**. All asset paths are relative, so the site works under the `/tutto-design-studio/` path.
+
 ## Project structure
 
 ```
