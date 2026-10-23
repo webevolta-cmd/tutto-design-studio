@@ -1,0 +1,1039 @@
+{
+ "6341": {
+  "group": "vahagni-house",
+  "variants": [
+   {
+    "src": "media/work/vahagni-house/6341-640.webp",
+    "w": 640,
+    "h": 320
+   },
+   {
+    "src": "media/work/vahagni-house/6341-1080.webp",
+    "w": 1080,
+    "h": 540
+   },
+   {
+    "src": "media/work/vahagni-house/6341-1600.webp",
+    "w": 1600,
+    "h": 800
+   }
+  ],
+  "ratio": 2.0
+ },
+ "6329": {
+  "group": "vahagni-house",
+  "variants": [
+   {
+    "src": "media/work/vahagni-house/6329-640.webp",
+    "w": 640,
+    "h": 394
+   },
+   {
+    "src": "media/work/vahagni-house/6329-1080.webp",
+    "w": 1080,
+    "h": 665
+   },
+   {
+    "src": "media/work/vahagni-house/6329-1600.webp",
+    "w": 1600,
+    "h": 985
+   }
+  ],
+  "ratio": 1.625
+ },
+ "6328": {
+  "group": "vahagni-house",
+  "variants": [
+   {
+    "src": "media/work/vahagni-house/6328-640.webp",
+    "w": 640,
+    "h": 394
+   },
+   {
+    "src": "media/work/vahagni-house/6328-1080.webp",
+    "w": 1080,
+    "h": 665
+   },
+   {
+    "src": "media/work/vahagni-house/6328-1600.webp",
+    "w": 1600,
+    "h": 985
+   }
+  ],
+  "ratio": 1.625
+ },
+ "6322": {
+  "group": "vahagni-house",
+  "variants": [
+   {
+    "src": "media/work/vahagni-house/6322-640.webp",
+    "w": 640,
+    "h": 407
+   },
+   {
+    "src": "media/work/vahagni-house/6322-1080.webp",
+    "w": 1080,
+    "h": 686
+   },
+   {
+    "src": "media/work/vahagni-house/6322-1600.webp",
+    "w": 1600,
+    "h": 1017
+   }
+  ],
+  "ratio": 1.5738498789346247
+ },
+ "6330": {
+  "group": "vahagni-house",
+  "variants": [
+   {
+    "src": "media/work/vahagni-house/6330-640.webp",
+    "w": 640,
+    "h": 394
+   },
+   {
+    "src": "media/work/vahagni-house/6330-1080.webp",
+    "w": 1080,
+    "h": 665
+   },
+   {
+    "src": "media/work/vahagni-house/6330-1600.webp",
+    "w": 1600,
+    "h": 985
+   }
+  ],
+  "ratio": 1.625
+ },
+ "6321": {
+  "group": "vahagni-house",
+  "variants": [
+   {
+    "src": "media/work/vahagni-house/6321-640.webp",
+    "w": 640,
+    "h": 407
+   },
+   {
+    "src": "media/work/vahagni-house/6321-1080.webp",
+    "w": 1080,
+    "h": 686
+   },
+   {
+    "src": "media/work/vahagni-house/6321-1600.webp",
+    "w": 1600,
+    "h": 1017
+   }
+  ],
+  "ratio": 1.5738498789346247
+ },
+ "6320": {
+  "group": "vahagni-house",
+  "variants": [
+   {
+    "src": "media/work/vahagni-house/6320-640.webp",
+    "w": 640,
+    "h": 861
+   },
+   {
+    "src": "media/work/vahagni-house/6320-1080.webp",
+    "w": 1080,
+    "h": 1452
+   },
+   {
+    "src": "media/work/vahagni-house/6320-1450.webp",
+    "w": 1450,
+    "h": 1950
+   }
+  ],
+  "ratio": 0.7435897435897436
+ },
+ "6334": {
+  "group": "vahagni-house",
+  "variants": [
+   {
+    "src": "media/work/vahagni-house/6334-640.webp",
+    "w": 640,
+    "h": 640
+   },
+   {
+    "src": "media/work/vahagni-house/6334-1080.webp",
+    "w": 1080,
+    "h": 1080
+   },
+   {
+    "src": "media/work/vahagni-house/6334-1600.webp",
+    "w": 1600,
+    "h": 1600
+   }
+  ],
+  "ratio": 1.0
+ },
+ "6340": {
+  "group": "vahagni-house",
+  "variants": [
+   {
+    "src": "media/work/vahagni-house/6340-640.webp",
+    "w": 640,
+    "h": 320
+   },
+   {
+    "src": "media/work/vahagni-house/6340-1080.webp",
+    "w": 1080,
+    "h": 540
+   },
+   {
+    "src": "media/work/vahagni-house/6340-1600.webp",
+    "w": 1600,
+    "h": 800
+   }
+  ],
+  "ratio": 2.0
+ },
+ "6366": {
+  "group": "vahagni-house",
+  "variants": [
+   {
+    "src": "media/work/vahagni-house/6366-640.webp",
+    "w": 640,
+    "h": 861
+   },
+   {
+    "src": "media/work/vahagni-house/6366-1080.webp",
+    "w": 1080,
+    "h": 1452
+   },
+   {
+    "src": "media/work/vahagni-house/6366-1450.webp",
+    "w": 1450,
+    "h": 1950
+   }
+  ],
+  "ratio": 0.7435897435897436
+ },
+ "6346": {
+  "group": "vahagni-house",
+  "variants": [
+   {
+    "src": "media/work/vahagni-house/6346-640.webp",
+    "w": 640,
+    "h": 860
+   },
+   {
+    "src": "media/work/vahagni-house/6346-1080.webp",
+    "w": 1080,
+    "h": 1451
+   },
+   {
+    "src": "media/work/vahagni-house/6346-1451.webp",
+    "w": 1451,
+    "h": 1950
+   }
+  ],
+  "ratio": 0.7441025641025641
+ },
+ "6357": {
+  "group": "vahagni-house",
+  "variants": [
+   {
+    "src": "media/work/vahagni-house/6357-640.webp",
+    "w": 640,
+    "h": 1264
+   },
+   {
+    "src": "media/work/vahagni-house/6357-962.webp",
+    "w": 962,
+    "h": 1900
+   }
+  ],
+  "ratio": 0.5063157894736842
+ },
+ "6326": {
+  "group": "vahagni-house",
+  "variants": [
+   {
+    "src": "media/work/vahagni-house/6326-640.webp",
+    "w": 640,
+    "h": 832
+   },
+   {
+    "src": "media/work/vahagni-house/6326-1080.webp",
+    "w": 1080,
+    "h": 1404
+   },
+   {
+    "src": "media/work/vahagni-house/6326-1500.webp",
+    "w": 1500,
+    "h": 1950
+   }
+  ],
+  "ratio": 0.7692307692307693
+ },
+ "6011": {
+  "group": "erebuni-apartment",
+  "variants": [
+   {
+    "src": "media/work/erebuni-apartment/6011-640.webp",
+    "w": 640,
+    "h": 426
+   },
+   {
+    "src": "media/work/erebuni-apartment/6011-1080.webp",
+    "w": 1080,
+    "h": 718
+   },
+   {
+    "src": "media/work/erebuni-apartment/6011-1600.webp",
+    "w": 1600,
+    "h": 1064
+   }
+  ],
+  "ratio": 1.5031645569620253
+ },
+ "6003": {
+  "group": "erebuni-apartment",
+  "variants": [
+   {
+    "src": "media/work/erebuni-apartment/6003-640.webp",
+    "w": 640,
+    "h": 426
+   },
+   {
+    "src": "media/work/erebuni-apartment/6003-1080.webp",
+    "w": 1080,
+    "h": 718
+   },
+   {
+    "src": "media/work/erebuni-apartment/6003-1600.webp",
+    "w": 1600,
+    "h": 1064
+   }
+  ],
+  "ratio": 1.5031645569620253
+ },
+ "5997": {
+  "group": "erebuni-apartment",
+  "variants": [
+   {
+    "src": "media/work/erebuni-apartment/5997-640.webp",
+    "w": 640,
+    "h": 426
+   },
+   {
+    "src": "media/work/erebuni-apartment/5997-1080.webp",
+    "w": 1080,
+    "h": 718
+   },
+   {
+    "src": "media/work/erebuni-apartment/5997-1600.webp",
+    "w": 1600,
+    "h": 1064
+   }
+  ],
+  "ratio": 1.5031645569620253
+ },
+ "5996": {
+  "group": "erebuni-apartment",
+  "variants": [
+   {
+    "src": "media/work/erebuni-apartment/5996-640.webp",
+    "w": 640,
+    "h": 426
+   },
+   {
+    "src": "media/work/erebuni-apartment/5996-1080.webp",
+    "w": 1080,
+    "h": 718
+   },
+   {
+    "src": "media/work/erebuni-apartment/5996-1600.webp",
+    "w": 1600,
+    "h": 1064
+   }
+  ],
+  "ratio": 1.5031645569620253
+ },
+ "6078": {
+  "group": "erebuni-apartment",
+  "variants": [
+   {
+    "src": "media/work/erebuni-apartment/6078-640.webp",
+    "w": 640,
+    "h": 426
+   },
+   {
+    "src": "media/work/erebuni-apartment/6078-1080.webp",
+    "w": 1080,
+    "h": 718
+   },
+   {
+    "src": "media/work/erebuni-apartment/6078-1600.webp",
+    "w": 1600,
+    "h": 1064
+   }
+  ],
+  "ratio": 1.5031645569620253
+ },
+ "6599": {
+  "group": "erebuni-apartment",
+  "variants": [
+   {
+    "src": "media/work/erebuni-apartment/6599-640.webp",
+    "w": 640,
+    "h": 853
+   },
+   {
+    "src": "media/work/erebuni-apartment/6599-1080.webp",
+    "w": 1080,
+    "h": 1440
+   },
+   {
+    "src": "media/work/erebuni-apartment/6599-1425.webp",
+    "w": 1425,
+    "h": 1900
+   }
+  ],
+  "ratio": 0.75
+ },
+ "6542": {
+  "group": "erebuni-apartment",
+  "variants": [
+   {
+    "src": "media/work/erebuni-apartment/6542-640.webp",
+    "w": 640,
+    "h": 539
+   },
+   {
+    "src": "media/work/erebuni-apartment/6542-1080.webp",
+    "w": 1080,
+    "h": 909
+   },
+   {
+    "src": "media/work/erebuni-apartment/6542-1600.webp",
+    "w": 1600,
+    "h": 1347
+   }
+  ],
+  "ratio": 1.1875
+ },
+ "6458": {
+  "group": "orbeli-apartment",
+  "variants": [
+   {
+    "src": "media/work/orbeli-apartment/6458-640.webp",
+    "w": 640,
+    "h": 465
+   },
+   {
+    "src": "media/work/orbeli-apartment/6458-1080.webp",
+    "w": 1080,
+    "h": 785
+   },
+   {
+    "src": "media/work/orbeli-apartment/6458-1600.webp",
+    "w": 1600,
+    "h": 1164
+   }
+  ],
+  "ratio": 1.375
+ },
+ "6459": {
+  "group": "orbeli-apartment",
+  "variants": [
+   {
+    "src": "media/work/orbeli-apartment/6459-640.webp",
+    "w": 640,
+    "h": 465
+   },
+   {
+    "src": "media/work/orbeli-apartment/6459-1080.webp",
+    "w": 1080,
+    "h": 785
+   },
+   {
+    "src": "media/work/orbeli-apartment/6459-1600.webp",
+    "w": 1600,
+    "h": 1164
+   }
+  ],
+  "ratio": 1.375
+ },
+ "6463": {
+  "group": "orbeli-apartment",
+  "variants": [
+   {
+    "src": "media/work/orbeli-apartment/6463-640.webp",
+    "w": 640,
+    "h": 640
+   },
+   {
+    "src": "media/work/orbeli-apartment/6463-1080.webp",
+    "w": 1080,
+    "h": 1080
+   },
+   {
+    "src": "media/work/orbeli-apartment/6463-1600.webp",
+    "w": 1600,
+    "h": 1600
+   }
+  ],
+  "ratio": 1.0
+ },
+ "6530": {
+  "group": "orbeli-apartment",
+  "variants": [
+   {
+    "src": "media/work/orbeli-apartment/6530-640.webp",
+    "w": 640,
+    "h": 451
+   },
+   {
+    "src": "media/work/orbeli-apartment/6530-1080.webp",
+    "w": 1080,
+    "h": 760
+   },
+   {
+    "src": "media/work/orbeli-apartment/6530-1600.webp",
+    "w": 1600,
+    "h": 1127
+   }
+  ],
+  "ratio": 1.4202476329206117
+ },
+ "6531": {
+  "group": "orbeli-apartment",
+  "variants": [
+   {
+    "src": "media/work/orbeli-apartment/6531-640.webp",
+    "w": 640,
+    "h": 450
+   },
+   {
+    "src": "media/work/orbeli-apartment/6531-1080.webp",
+    "w": 1080,
+    "h": 759
+   },
+   {
+    "src": "media/work/orbeli-apartment/6531-1600.webp",
+    "w": 1600,
+    "h": 1124
+   }
+  ],
+  "ratio": 1.4233576642335766
+ },
+ "6508": {
+  "group": "byuzand-apartment",
+  "variants": [
+   {
+    "src": "media/work/byuzand-apartment/6508-640.webp",
+    "w": 640,
+    "h": 360
+   },
+   {
+    "src": "media/work/byuzand-apartment/6508-1080.webp",
+    "w": 1080,
+    "h": 608
+   },
+   {
+    "src": "media/work/byuzand-apartment/6508-1600.webp",
+    "w": 1600,
+    "h": 900
+   }
+  ],
+  "ratio": 1.7777777777777777
+ },
+ "6506": {
+  "group": "byuzand-apartment",
+  "variants": [
+   {
+    "src": "media/work/byuzand-apartment/6506-640.webp",
+    "w": 640,
+    "h": 360
+   },
+   {
+    "src": "media/work/byuzand-apartment/6506-1080.webp",
+    "w": 1080,
+    "h": 608
+   },
+   {
+    "src": "media/work/byuzand-apartment/6506-1600.webp",
+    "w": 1600,
+    "h": 900
+   }
+  ],
+  "ratio": 1.7777777777777777
+ },
+ "6502": {
+  "group": "byuzand-apartment",
+  "variants": [
+   {
+    "src": "media/work/byuzand-apartment/6502-640.webp",
+    "w": 640,
+    "h": 360
+   },
+   {
+    "src": "media/work/byuzand-apartment/6502-1080.webp",
+    "w": 1080,
+    "h": 608
+   },
+   {
+    "src": "media/work/byuzand-apartment/6502-1600.webp",
+    "w": 1600,
+    "h": 900
+   }
+  ],
+  "ratio": 1.7777777777777777
+ },
+ "6520": {
+  "group": "byuzand-apartment",
+  "variants": [
+   {
+    "src": "media/work/byuzand-apartment/6520-640.webp",
+    "w": 640,
+    "h": 960
+   },
+   {
+    "src": "media/work/byuzand-apartment/6520-1080.webp",
+    "w": 1080,
+    "h": 1620
+   },
+   {
+    "src": "media/work/byuzand-apartment/6520-1600.webp",
+    "w": 1600,
+    "h": 2400
+   }
+  ],
+  "ratio": 0.6666666666666666
+ },
+ "6315": {
+  "group": "moscow-apartment",
+  "variants": [
+   {
+    "src": "media/work/moscow-apartment/6315-640.webp",
+    "w": 640,
+    "h": 555
+   },
+   {
+    "src": "media/work/moscow-apartment/6315-1080.webp",
+    "w": 1080,
+    "h": 936
+   },
+   {
+    "src": "media/work/moscow-apartment/6315-1600.webp",
+    "w": 1600,
+    "h": 1387
+   }
+  ],
+  "ratio": 1.153612629022465
+ },
+ "6305": {
+  "group": "moscow-apartment",
+  "variants": [
+   {
+    "src": "media/work/moscow-apartment/6305-640.webp",
+    "w": 640,
+    "h": 555
+   },
+   {
+    "src": "media/work/moscow-apartment/6305-1080.webp",
+    "w": 1080,
+    "h": 936
+   },
+   {
+    "src": "media/work/moscow-apartment/6305-1600.webp",
+    "w": 1600,
+    "h": 1387
+   }
+  ],
+  "ratio": 1.1535688536409516
+ },
+ "6303": {
+  "group": "moscow-apartment",
+  "variants": [
+   {
+    "src": "media/work/moscow-apartment/6303-640.webp",
+    "w": 640,
+    "h": 449
+   },
+   {
+    "src": "media/work/moscow-apartment/6303-1080.webp",
+    "w": 1080,
+    "h": 757
+   },
+   {
+    "src": "media/work/moscow-apartment/6303-1600.webp",
+    "w": 1600,
+    "h": 1122
+   }
+  ],
+  "ratio": 1.4264264264264264
+ },
+ "6290": {
+  "group": "moscow-apartment",
+  "variants": [
+   {
+    "src": "media/work/moscow-apartment/6290-640.webp",
+    "w": 640,
+    "h": 381
+   },
+   {
+    "src": "media/work/moscow-apartment/6290-1080.webp",
+    "w": 1080,
+    "h": 643
+   },
+   {
+    "src": "media/work/moscow-apartment/6290-1600.webp",
+    "w": 1600,
+    "h": 953
+   }
+  ],
+  "ratio": 1.6784452296819787
+ },
+ "6377": {
+  "group": "aroyan-jewelry",
+  "variants": [
+   {
+    "src": "media/work/aroyan-jewelry/6377-640.webp",
+    "w": 640,
+    "h": 480
+   },
+   {
+    "src": "media/work/aroyan-jewelry/6377-1080.webp",
+    "w": 1080,
+    "h": 810
+   },
+   {
+    "src": "media/work/aroyan-jewelry/6377-1600.webp",
+    "w": 1600,
+    "h": 1200
+   }
+  ],
+  "ratio": 1.3328776486671223
+ },
+ "6376": {
+  "group": "aroyan-jewelry",
+  "variants": [
+   {
+    "src": "media/work/aroyan-jewelry/6376-640.webp",
+    "w": 640,
+    "h": 480
+   },
+   {
+    "src": "media/work/aroyan-jewelry/6376-1080.webp",
+    "w": 1080,
+    "h": 810
+   },
+   {
+    "src": "media/work/aroyan-jewelry/6376-1600.webp",
+    "w": 1600,
+    "h": 1200
+   }
+  ],
+  "ratio": 1.3328776486671223
+ },
+ "6374": {
+  "group": "aroyan-jewelry",
+  "variants": [
+   {
+    "src": "media/work/aroyan-jewelry/6374-640.webp",
+    "w": 640,
+    "h": 853
+   },
+   {
+    "src": "media/work/aroyan-jewelry/6374-1080.webp",
+    "w": 1080,
+    "h": 1440
+   },
+   {
+    "src": "media/work/aroyan-jewelry/6374-1463.webp",
+    "w": 1463,
+    "h": 1950
+   }
+  ],
+  "ratio": 0.7502564102564102
+ },
+ "6402": {
+  "group": "elmar-image-centre",
+  "variants": [
+   {
+    "src": "media/work/elmar-image-centre/6402-640.webp",
+    "w": 640,
+    "h": 449
+   },
+   {
+    "src": "media/work/elmar-image-centre/6402-1080.webp",
+    "w": 1080,
+    "h": 757
+   },
+   {
+    "src": "media/work/elmar-image-centre/6402-1600.webp",
+    "w": 1600,
+    "h": 1122
+   }
+  ],
+  "ratio": 1.4264264264264264
+ },
+ "6400": {
+  "group": "elmar-image-centre",
+  "variants": [
+   {
+    "src": "media/work/elmar-image-centre/6400-640.webp",
+    "w": 640,
+    "h": 449
+   },
+   {
+    "src": "media/work/elmar-image-centre/6400-1080.webp",
+    "w": 1080,
+    "h": 757
+   },
+   {
+    "src": "media/work/elmar-image-centre/6400-1600.webp",
+    "w": 1600,
+    "h": 1122
+   }
+  ],
+  "ratio": 1.4264264264264264
+ },
+ "6251": {
+  "group": "yerevan-apartment-55",
+  "variants": [
+   {
+    "src": "media/work/yerevan-apartment-55/6251-640.webp",
+    "w": 640,
+    "h": 481
+   },
+   {
+    "src": "media/work/yerevan-apartment-55/6251-1080.webp",
+    "w": 1080,
+    "h": 811
+   },
+   {
+    "src": "media/work/yerevan-apartment-55/6251-1600.webp",
+    "w": 1600,
+    "h": 1201
+   }
+  ],
+  "ratio": 1.3318518518518518
+ },
+ "6246": {
+  "group": "yerevan-apartment-55",
+  "variants": [
+   {
+    "src": "media/work/yerevan-apartment-55/6246-640.webp",
+    "w": 640,
+    "h": 445
+   },
+   {
+    "src": "media/work/yerevan-apartment-55/6246-1080.webp",
+    "w": 1080,
+    "h": 750
+   },
+   {
+    "src": "media/work/yerevan-apartment-55/6246-1600.webp",
+    "w": 1600,
+    "h": 1111
+   }
+  ],
+  "ratio": 1.4397163120567376
+ },
+ "7286": {
+  "group": "concepts-2025",
+  "variants": [
+   {
+    "src": "media/work/concepts-2025/7286-640.webp",
+    "w": 640,
+    "h": 640
+   },
+   {
+    "src": "media/work/concepts-2025/7286-1080.webp",
+    "w": 1080,
+    "h": 1080
+   },
+   {
+    "src": "media/work/concepts-2025/7286-1600.webp",
+    "w": 1600,
+    "h": 1600
+   }
+  ],
+  "ratio": 1.0
+ },
+ "7285": {
+  "group": "concepts-2025",
+  "variants": [
+   {
+    "src": "media/work/concepts-2025/7285-640.webp",
+    "w": 640,
+    "h": 640
+   },
+   {
+    "src": "media/work/concepts-2025/7285-1080.webp",
+    "w": 1080,
+    "h": 1080
+   },
+   {
+    "src": "media/work/concepts-2025/7285-1600.webp",
+    "w": 1600,
+    "h": 1600
+   }
+  ],
+  "ratio": 1.0
+ },
+ "7329": {
+  "group": "team",
+  "variants": [
+   {
+    "src": "media/team/7329-480.webp",
+    "w": 480,
+    "h": 479
+   }
+  ],
+  "ratio": 1.0022271714922049
+ },
+ "7330": {
+  "group": "team",
+  "variants": [
+   {
+    "src": "media/team/7330-480.webp",
+    "w": 480,
+    "h": 480
+   }
+  ],
+  "ratio": 1.0
+ },
+ "7331": {
+  "group": "team",
+  "variants": [
+   {
+    "src": "media/team/7331-480.webp",
+    "w": 480,
+    "h": 480
+   }
+  ],
+  "ratio": 1.0
+ },
+ "7332": {
+  "group": "team",
+  "variants": [
+   {
+    "src": "media/team/7332-480.webp",
+    "w": 480,
+    "h": 480
+   }
+  ],
+  "ratio": 1.0
+ },
+ "7333": {
+  "group": "team",
+  "variants": [
+   {
+    "src": "media/team/7333-480.webp",
+    "w": 480,
+    "h": 480
+   }
+  ],
+  "ratio": 1.0
+ },
+ "7030": {
+  "group": "vahagni-architecture",
+  "variants": [
+   {
+    "src": "media/work/vahagni-architecture/7030-640.webp",
+    "w": 640,
+    "h": 360
+   },
+   {
+    "src": "media/work/vahagni-architecture/7030-1080.webp",
+    "w": 1080,
+    "h": 608
+   },
+   {
+    "src": "media/work/vahagni-architecture/7030-1600.webp",
+    "w": 1600,
+    "h": 900
+   }
+  ],
+  "ratio": 1.7777777777777777
+ },
+ "7031": {
+  "group": "vahagni-architecture",
+  "variants": [
+   {
+    "src": "media/work/vahagni-architecture/7031-640.webp",
+    "w": 640,
+    "h": 360
+   },
+   {
+    "src": "media/work/vahagni-architecture/7031-1080.webp",
+    "w": 1080,
+    "h": 608
+   },
+   {
+    "src": "media/work/vahagni-architecture/7031-1600.webp",
+    "w": 1600,
+    "h": 900
+   }
+  ],
+  "ratio": 1.7777777777777777
+ },
+ "7032": {
+  "group": "vahagni-architecture",
+  "variants": [
+   {
+    "src": "media/work/vahagni-architecture/7032-640.webp",
+    "w": 640,
+    "h": 360
+   },
+   {
+    "src": "media/work/vahagni-architecture/7032-1080.webp",
+    "w": 1080,
+    "h": 608
+   },
+   {
+    "src": "media/work/vahagni-architecture/7032-1600.webp",
+    "w": 1600,
+    "h": 900
+   }
+  ],
+  "ratio": 1.7777777777777777
+ },
+ "7041": {
+  "group": "vahagni-architecture",
+  "variants": [
+   {
+    "src": "media/work/vahagni-architecture/7041-640.webp",
+    "w": 640,
+    "h": 427
+   },
+   {
+    "src": "media/work/vahagni-architecture/7041-1080.webp",
+    "w": 1080,
+    "h": 720
+   },
+   {
+    "src": "media/work/vahagni-architecture/7041-1600.webp",
+    "w": 1600,
+    "h": 1067
+   }
+  ],
+  "ratio": 1.499531396438613
+ },
+ "7044": {
+  "group": "vahagni-architecture",
+  "variants": [
+   {
+    "src": "media/work/vahagni-architecture/7044-640.webp",
+    "w": 640,
+    "h": 427
+   },
+   {
+    "src": "media/work/vahagni-architecture/7044-1080.webp",
+    "w": 1080,
+    "h": 720
+   },
+   {
+    "src": "media/work/vahagni-architecture/7044-1600.webp",
+    "w": 1600,
+    "h": 1067
+   }
+  ],
+  "ratio": 1.499531396438613
+ }
+}
